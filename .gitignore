@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+AngularMovie-SpringMVC.iml
+out/
+target/
