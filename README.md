@@ -1,2 +1,0 @@
-angularmovie-springmvc
-======================
